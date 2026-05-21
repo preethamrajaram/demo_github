@@ -1,1 +1,3 @@
-console.log(1)
+var a = 10
+var b = 5
+  console.log("sum:"a+b)
